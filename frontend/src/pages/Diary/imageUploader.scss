@@ -1,0 +1,27 @@
+.uploader-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  // .img-wrapper {
+  //   img {
+  //     width: 40vw;
+  //     max-width: 500px;
+  //     border-radius: 20px;
+  //     object-fit: fill;
+  //   }
+  // }
+}
+
+// // 모바일 기준
+// @media all and (max-width: 821px) {
+//   .uploader-wrapper {
+//     .img-wrapper {
+//       img {
+//         width: 80vw;
+//         height: auto;
+//       }
+//     }
+//   }
+// }
